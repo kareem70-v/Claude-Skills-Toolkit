@@ -49,3 +49,8 @@ As a student currently learning data analysis, I spend a lot of time optimizing 
 Hi, I'm Kareem. I am a student actively studying data analysis, with a passion for building practical tech solutions, optimizing workflows, and turning complex problems into structured systems. 
 
 * Let's connect on [LinkedIn](https://www.linkedin.com/in/kareem-virani-927431314/)
+* # My Portfolio and Documents
+
+Here are my introductory documents and resume. 
+
+🔗 [Click here to view my Portfolio Website](https://kareem-portfolio-topaz.vercel.app/)
